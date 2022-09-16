@@ -1,5 +1,4 @@
-export default function Config(props) {
-  const { lower, setLower, upper, setUpper, reset } = props;
+export default function Config({ lower, setLower, upper, setUpper, reset }) {
 
   return (
     <>
