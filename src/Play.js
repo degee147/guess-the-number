@@ -1,4 +1,4 @@
-export default function Play({ prompt,status, guess, setSelection, lastGuess }) {
+export default function Play({ prompt, status, guess, setSelection, lastGuess }) {
   return (
     <>
       <h3>Play!</h3>

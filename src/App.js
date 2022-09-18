@@ -50,7 +50,7 @@ export default function App() {
 
 
   return (
-    <div className="App">
+    <div className="App" data-testid="apptest">
       <div>
         <Play
           prompt={prompt}
